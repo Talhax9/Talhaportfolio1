@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Talha Ghaffar | Creative Freelancer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #ffe6f0; /* Light Pink Background */
+      color: #333;
+    }
+
+    header {
+      background-color: #ff66b2; /* Pink Header */
+      color: white;
+      text-align: center;
+      padding: 2rem 1rem;
+    }
+
+    header h1 {
+      font-size: 2.5rem;
+    }
+
+    header p {
+      font-size: 1.2rem;
+    }
+
+    section {
+      padding: 2rem;
+      margin: 1rem;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+    h2 {
+      color: #ff3399;
+    }
+
+    ul {
+      list-style: square;
+      padding-left: 1.5rem;
+    }
+
+    a {
+      color: #ff3399;
+      text-decoration: none;
+    }
+
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background: #ff66b2;
+      color: white;
+      margin-top: 2rem;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Talha Ghaffar</h1>
+    <p>Creative Freelancer | Logo Designer | Content Writer | C++ Developer</p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>Hi! I'm Talha Ghaffar, a passionate logo designer, content writer, and C++ programmer. I love turning ideas into reality with creativity and code!</p>
+  </section>
+
+  <section id="skills">
+    <h2>My Skills</h2>
+    <ul>
+      <li>Logo Designing</li>
+      <li>Content Writing</li>
+      <li>C++ Programming</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <ul>
+      <li><strong>Tic Tac Toe Game</strong> - A fun 2-player game built using C++.</li>
+      <li><strong>Simple Racing Game</strong> - Created using C++ console application.</li>
+      <li><strong>Employee Management System</strong> - Complete system to manage employee data (C++).</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <p>Email: <a href="mailto:talhaghaffar449@gmail.com">talhaghaffar449@gmail.com</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Talha Ghaffar. All rights reserved.</p>
+  </footer>
+</body>
+</html>
